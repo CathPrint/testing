@@ -1,2 +1,2 @@
 # testingcp
-testing cp repository
+I like to eat fish soup
